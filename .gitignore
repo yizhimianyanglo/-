@@ -1,0 +1,13 @@
+*.pro.user
+*.pro.user.*
+.qmake.stash
+Makefile
+Makefile.*
+build*/
+debug/
+release/
+exe/
+.vs/
+.idea/
+.codex/
+*.log
