@@ -53,16 +53,4 @@ DY_DB_PASSWORD   （MySQL 访问所需）
 - [项目通信说明](SonyProjectModbus.md)
 - [数据库初始化脚本](SonyAquaculture-main/Aquaculture.sql)
 
-## 项目截图
-
-![主页面](SonyAquaculture-main/主页面.png)
-
-![控制管理](SonyAquaculture-main/控制管理.png)
-
-![故障检测](SonyAquaculture-main/故障检测.png)
-
-![日志记录查询](SonyAquaculture-main/日志记录查询.png)
-
-![警告提示](SonyAquaculture-main/警告提示.png)
-
 本仓库为脱敏后的公开副本，不包含数据库密码、本机绝对路径和生成的可执行文件。

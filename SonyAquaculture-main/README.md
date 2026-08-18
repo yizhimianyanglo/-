@@ -54,18 +54,4 @@ qmake ../SonyAquaculture-main/tests/modbus_tests.pro
 mingw32-make
 ```
 
-## 项目截图
-
-![主页面](主页面.png)
-
-![故障检测](故障检测.png)
-
-![控制管理](控制管理.png)
-
-![日志记录查询](日志记录查询.png)
-
-![警告提示](警告提示.png)
-
-![Qt 版本](Qt版本.png)
-
 本仓库为脱敏后的公开副本，未包含凭据和本机生成文件。
