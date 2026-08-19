@@ -5,7 +5,7 @@
 [点击观看项目演示](https://www.bilibili.com/video/BV1fQKA6dEft/)
 
 这是项目的公开发布仓库。完整 Qt 源码位于
-[`SonyAquaculture-main/`](SonyAquaculture-main/) 子目录，仓库根目录同时保留
+[`SonyAquaculture/`](SonyAquaculture-main/) 子目录，仓库根目录同时保留
 Modbus Slave 模拟器文件、通信设计说明和项目文档。
 
 ## 项目简介
